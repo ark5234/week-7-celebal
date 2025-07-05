@@ -4,7 +4,9 @@ An interactive machine learning web application that predicts Iris flower specie
 
 ## 🚀 Live Demo
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://week-7-celebal.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ark5234-week-7-celebal-app-sxnydl.streamlit.app/)
+
+**🌐 Live Application**: [https://ark5234-week-7-celebal-app-sxnydl.streamlit.app/](https://ark5234-week-7-celebal-app-sxnydl.streamlit.app/)
 
 ## 📊 Features
 
@@ -130,7 +132,7 @@ This application is deployed on Streamlit Community Cloud:
 
 1. **Automatic Deployment**: Connected to GitHub repository
 2. **Continuous Integration**: Updates automatically on push to main branch
-3. **Live URL**: [https://week-7-celebal.streamlit.app/](https://week-7-celebal.streamlit.app/)
+3. **Live URL**: [https://ark5234-week-7-celebal-app-sxnydl.streamlit.app/](https://ark5234-week-7-celebal-app-sxnydl.streamlit.app/)
 
 ### Alternative Deployment Options
 
